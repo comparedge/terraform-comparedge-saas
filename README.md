@@ -54,7 +54,7 @@ Add it to automation pipelines to make infrastructure decisions based on current
 
 ## Extending
 
-Add more categories in `data.tf`. The API exposes 28 categories:
+Add more categories in `data.tf`. The API exposes multiple categories:
 
 ```
 https://comparedge-api.up.railway.app/api/v1/categories
